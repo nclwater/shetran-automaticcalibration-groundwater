@@ -1,0 +1,5 @@
+Shetran-Optimise
+****************
+   number,deep_soil_conductivity,shallow_soil_conductivity,shallow_soil_depth,AePe_ratio,urban-prec-fraction,NSECal,BiasCal,KGECal,LogNSECal,RMSECal,PeaCal,SpeCal,NSEVal,BiasVal,KGEVal,LogNSEVal,RMSEVal,PeaVal,Speval
+   1,    0.1001,   14.8413,    2.0863,    1.3335,    0.4852,   -0.1150,  -71.1583,   -0.0746,    0.1296,   37.7185,    0.8035,    0.8265,    0.0721,  -48.8478,    0.4324,   -0.0421,   35.6253,    0.5609,    0.5186
+   2,  167.6738,   73.7175,    4.6190,    1.3979,    0.4331,    0.5671,  -34.8642,    0.4058,    0.5467,   10.5553,    0.6254,    0.6389,    0.7674,  -11.0888,    0.6810,    0.8570,   13.4757,    0.6131,    0.6103
