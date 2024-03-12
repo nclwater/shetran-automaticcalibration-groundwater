@@ -1,7 +1,7 @@
 # shetran-automatic-calibration-groundwater
 
 ## Features
-- Executable to run automatic calibration of Shetran
+- Executable to run automatic calibration of Shetran using flow and water level
 
 ## Usage
 1) in command prompt change folder to Shetran folder 
